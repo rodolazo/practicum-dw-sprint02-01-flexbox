@@ -1,0 +1,12 @@
+div{
+    border: 1px solid red;
+    text-align: center;    
+}
+
+.header{
+    display:flex;
+}
+
+.header-link{
+    margin: 0 auto;
+}
